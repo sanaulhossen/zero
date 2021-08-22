@@ -1,0 +1,39 @@
+.card-image.latest_blog img {
+    height: 121px !important;
+}
+h2.website_name {
+    font-weight: bold;
+}
+h4.p-5 {
+    padding: 25px 10px;
+    text-align: center;
+}
+section#comment-section {
+    margin-top: 20px;
+}
+.c-text.mt-40 {
+    margin-top: 15px;
+}
+table#category_table {
+    color: black;
+}
+a.comment_delete {
+    color: red;
+    border: 1px solid;
+    padding: 5px 10px;
+}
+a.comment_blog {
+    color: black;
+}
+h3.mt-3.text-center {
+    text-align: center;
+}
+.blogdetails_sidebar.hot-post-image img {
+    width: 110px !important;
+    height: 100px !important;
+    border-radius: 8px;
+}
+a.blogdetails_sidebar_title.card-title {
+    color: black;
+    line-height: 15px;
+}
